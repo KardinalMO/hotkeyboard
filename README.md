@@ -15,4 +15,4 @@ para a tecla que você precisa, exemplo: 'shift')
 
 _<h6>Projeto iniciado em: 19/07/2025</h6>_
 
-_<h6>Projeto concluido em: 19/07/2025</h6>_
+_<h6>Projeto concluído em: 19/07/2025</h6>_
